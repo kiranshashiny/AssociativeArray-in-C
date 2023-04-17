@@ -60,3 +60,15 @@ int main () {
 }
 
 ```
+Output:
+
+```
+
+hello => world
+herp => (null)
+shashi => kiran
+Arsikere => GV Basavaraju
+Byndoor => Gururaj Gantihole
+a => b
+
+```
