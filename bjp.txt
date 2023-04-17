@@ -1,0 +1,212 @@
+Shiggaon,Basavaraj Bommai
+Nippani,Shashikala Annasaheb Jolle
+Chikkodi-Sadalga,Ramesh Katti
+Athani,Mahesh Kumathalli
+Kagwad,Shrimant Balasaheb Patil
+Kudachi (SC),P. Rajeev
+Raybag (SC),Duryodhan Mahalingappa Aihole
+Hukkeri,Nikhil Katti
+Arabhavi,Balachandra Jarakiholi
+Gokak,Ramesh Jarakiholi
+Yemkanmardi (ST),Basavaraj Hundri
+Belgaum Uttar,Dr. Ravi Patil
+Belgaum Dakshin,Abhay Patil
+Belgaum Rural,Nagesh Mannolkar
+Khanapur,Vittal Halagekar
+Kittur,Mahantesh Doddagoudar
+Bailhongal,Jagdish Channappa Metgud
+Saundatti Yellamma,Ratna Vishwanath Mamani
+Ramdurg,Chikka Revanna
+Mudhol (SC),Govind Karjol
+Terdal,Siddu Savadi
+Jamkhandi,Jagadish Gudagunti
+Bilgi,Murugesh Rudrappa Nirani
+Badami,Shantha Gowda Patil
+Bagalkot,Veerabhadrayya Charantimath
+Hungund,Doddanagouda G Patil
+Muddebihal,AS Patil Nadahalli
+Babaleshwar,Vijugouda S Patil
+Bijapur City,B R Patil (Yatnal)
+Sindgi,Ramesh Bhusanur
+Afzalpur,Malikaiah Guttedar
+Jewargi,Shivanagoudapatil Raddevadagi
+Shorapur (ST),Narasimha Nayak (Rajugouda)
+Shahapur,Ameenreddy Yalagi
+Yadgir,Venkatareddy Mudnal
+Chittapur (SC),Manikanta Rathod
+Chincholi (SC),Dr. Avinash Jadhav
+Gulbarga Rural (SC),Basavaraj Mattimod
+Gulbarga Dakshin,Dattatraya Patil Revoor
+Gulbarga Uttar,Chandrakant Patil
+Aland,Subhash Guttedar
+Basavakalyan,Sharanu Salagar
+Humnabad,Siddu Patil
+Bidar South,Dr. Shailendra Beldale
+Aurad (SC),Prabhu Chavan
+Raichur Rural (ST),Tipparaju Havaldar
+Raichur,Dr. Shivaraj Patil
+Devedurga (ST),K Shivanagouda Nayak
+Lingsugur (SC),Manappa D Vajjal
+Sindhanur,K Kariyappa
+Maski (ST),Pratapgouda Patil
+Kushtagi,Doddanagouda Patil
+Kanakagiri (SC),Basavaraj Dadesaguru
+Yelburga,Halappa Basappa Achar
+Shirahatti (SC),Dr. Chandru Lamani
+Gadag,Anil Menasinakai
+Nargund,C.C. Patil
+Navalgund,Shankar Patil Munenakoppa
+Kundgol,M R Patil
+Dharwad,Amrut Ayyappa Desai
+Hubli-Dharwad-East (SC),Arvind Bellad
+Hubli-Dharwad-West,Dr. Kranti Kiran
+Haliyal,Sunil Hegde
+Karwar,Rupali Santosh Nayak
+Kumta,Dinakar Shetty
+Bhatkal,Sunil Baliya Nayak
+Sirsi,Vishweshwar Hegde Kageri
+Yellapur,Shivaram Hebbar
+Byadgi,Virupakshappa Ballari
+Hirekerur,B.C. Patil
+Ranibennur,Arun Kumar Pujar
+Hadagalli (SC),Krishna Naik
+Vijayanagara,Siddharth Singh
+Kampli (ST),T H Suresh Babu
+Siruguppa (ST),M.S. Somalingappa
+Bellary (ST),B. Sriramulu
+Bellary City,Gali Somashekhara Reddy
+Sandur (ST),Shilpa Raghavendra
+Kudligi (ST),Lokesh V Nayaka
+Molakalmuru (ST),S. Thippeswamy
+Challakere (ST),Anilkumar
+Chitradurga,G H Thippareddy
+Hiriyur,K. Poornima Srinivas
+Hosadurga,S Lingamurthy
+Holalkere (SC),M. Chandrappa
+Jagalur (ST),S V Ramachandra
+Harihar,B.P. Harish
+Honnali,M P Renukacharya
+Shimoga Rural (SC),Ashok Nayak
+Bhadravati,Mangoti Rudresh
+Tirthahalli,Araga Jnanendra
+Shikaripur,BY Vijayendra
+Sorab,Kumar Bangarappa
+Sagar,Haratalu H. Halappa
+Kundapura,Kiran Kumar Kodgi
+Udupi,Yashpal Suvarna
+Kapu,Gurme Suresh Shetty
+Karkal,V. Sunil Kumar
+Sringeri,D. N. Jeevaraj
+Chikmagalur,C T Ravi
+Tarikere,D S Suresh
+Kadur,K S Prakash
+Chikkanayakanahalli,J.C. Madhuswamy
+Tiptur,B.C. Nagesh
+Turuvekere,Masala Jayaram
+Kunigal,D Krishna Kumar
+Tumkur City,G.B. Jyothi Ganesh
+Tumkur Rural,B Suresh Gowda
+Koratagere (SC),Anil Kumar,Retd. IAS
+Sira,Dr. Rajesh Gowda
+Pavagada (SC),Krishna Nayak
+Madhugiri,LC Nagaraj
+Gauribidanur,Dr. Shashidhar
+Bagepalli,C Muniraju
+Chikkaballapur,Dr. K. Sudhakar
+Chintamani,Venu Gopal
+Srinivaspur,Gunjuru Srinivas Reddy
+Mulbagal (SC),Shigehalli Sundar
+Bangarapet (SC),M. Narayanswamy
+Kolar,Varthur Prakash
+Malur,KS Manjunath Gowda
+Yelahanka,S.R. Vishwanath
+K.R. Pura,BA Basavaraj
+Byatarayanapura,Thammesh Gowda
+Yeshvanthapura,S.T. Somashekar
+Rajarajeshwarinagar,Munirathna Naidu
+Dasarahalli,S Muniraju
+Mahalakshmi Layout,K. Gopalaiah
+Malleshwaram,C.N. Ashwathnarayana
+Pulakeshinagar (SC),Murali
+Sarvagnanagar,Padmanabha Reddy
+C.V. Raman Nagar (SC),S. Raghu
+Shivajinagar,N. Chandra
+Shanti Nagar,Shiva Kumar
+Gandhi Nagar,A.R. Sapthagiri Gowda
+Rajaji Nagar,S. Suresh Kumar
+Vijay Nagar,H Raveendra
+Chamrajpet,Bhaskar Rao,IPS
+Chickpet,Uday Garudachar
+Basavanagudi,Ravisubramanya
+Padmanaba Nagar,R. Ashoka
+B.T.M. Layout,Sridhar Reddy
+Jayanagar,C K Ramamurthy Shri Sathish Reddy
+Bommanahalli,Sathish Reddy
+Bangalore South,M Krishnappa
+Anekal (SC),Hullalli Srinivas
+Hosakote,M.T.B. Nagraj
+Devanahalli (SC),Pilla Munishamappa
+Doddaballapur,Dhiraj Muniraju
+Nelamangala (SC),Sapthagiri Naik
+Magadi,Prasad Gowda
+Ramanagaram,Goutham Gowda
+Kanakapura,R. Ashok
+Channapatna,CP Yogeshwar
+Malavalli (SC),Muniraju
+Maddur,S P Swamy
+Melukote,Dr. Indresh Kumar
+Mandya,Ashok Jayaram
+Shrirangapattana,Indavalu Sachidananda
+Nagamangala,Sudha Shivaram
+Krishnarajpet,Dr. K.C. Narayanagowda
+Belur,Hullalli K Suresh
+Hassan,J Preetham Gowda
+Holenarasipur,Devaraje Gowda
+Arkalgud,Yoga Ramesh
+Sakleshpur (SC),Cement Manju
+Belthangady,Harish Poonja
+Moodabidri,Umanath Kotian
+Mangalore City North,Y. Bharat Shetty
+Mangalore City South,Vedavyas Kamath
+Mangalore,Sathish Kumpala
+Bantval,Rajesh Naik
+Puttur,Asha Thimmappa
+Sullia (SC),Bhagirathi Murulya
+Madikeri,M P Appachu Ranjan
+Virajpet,K G Bopaiah
+Piriyapatna,C. H. Vijayashankar
+Krishnarajanagara,Venkatesh Hosalli
+Hunsur,Devarahalli Somashekhar
+Nanjangud (SC),B. Harshavardhan
+Chamundeshwari,Kaveesh Gowda
+Chamaraja,L. Nagendra
+Narasimharaja,Sandesh Swami
+Varuna,V. Somanna
+T. Narasipur (SC),Dr. Revanna
+Hanur,Dr. Preetham Nagappa
+Kollegal (SC),N. Mahesh
+Chamarajanagar,V. Somanna
+Gundlupet,C.S. Niranjan Kumar
+Devar Hippargi,Somanagouda Patil (Sasanur)
+Basavana Bagevadi,SK Bellubbi
+Indi,Kasagouda Biradar
+Gurmitkal,Kum. Lalitha Anapur
+Bidar,Eshwar Singh Thakur
+Bhalki,Prakash Khandre
+Gangawati,Paranna Munavalli
+Kalghatgi,Nagaraj Chabbi
+Hangal,Shivaraj Sajjanar
+Haveri (SC),Gavisiddappa Dyamannavar
+Harapanahalli,Karunakara Reddy
+Davanagere North,Lokikere Nagaraj
+Davanagere South,Ajay Kumar
+Mayakonda (SC),Basavaraja Naik
+Channagiri,Shiv Kumar
+Byndoor,Gururaj Gantihole
+Mudigere (SC),Deepak Doddalah
+Gubbi,SD Dileep Kumar
+Sidlaghatta,Ramachandra Gowda
+Kolar Gold Field (SC),Ashwini Sampangi
+Shravanabelagola,Chidananda
+Arsikere,GV Basavaraju
+Heggadadevankote (ST),Krishna Naik
