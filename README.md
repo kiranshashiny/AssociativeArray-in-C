@@ -1,4 +1,5 @@
-# AssociativeArray-in-C
+# AssociativeArray-in-C ( does not work on Ubuntu), Works on Mac OS 
+LOOK AT HASHTABLE INSTEAD.
 
 
 Code is from 
